@@ -1,5 +1,6 @@
 * iso_snowflakes
 For more information, visit [[https://www.leonrische.me/pages/isometric_snowflakes.html]].
+Images were generated using [[https://github.com/l3kn/Plotter][l3kn/Plotter]].
 
 ** Getting a Plot of This
 :PROPERTIES:
