@@ -1,0 +1,46 @@
+* iso_snowflakes
+For more information, visit [[https://www.leonrische.me/pages/isometric_snowflakes.html]].
+
+** Getting a Plot of This
+:PROPERTIES:
+:ID:       236c3e6d-01ad-4b70-a1fb-514665911dfd
+:END:
+If you have an [[https://axidraw.com/][AxiDraw]] or a similar plotter that can plot svg files,
+you should be able to download these images and plot them yourself.
+
+On [[https://github.com/l3kn/iso_snowflakes/][l3kn/iso_snowflakes]] you can find hundreds of randomly generated svg
+files in A3 and A4 size.
+
+The order of the paths is already optimized, images can be plotted using
+the [[https://axidraw.com/doc/cli_api/][AxiDraw CLI]].
+
+I'm using the following command (AxiDraw V3 A3):
+
+#+begin_src bash
+axicli image_name.svg -L 2 -p /dev/ttyACM0 -s 30 -S 50 -a 30
+#+end_src
+
+For different paper sizes, you can resize the images in [[http://inkscape.org/][inkscape.]]
+
+Only ~path~ elements are used, so it should be possible to plot these
+images with an HPGL plotter, too.
+To do so, either parse the ~path~ elements of the svg and scale the
+points or write to [[mailto:support@leonrische.me][support@leonrische.me]] so we can come up with a
+format that's easy for me to generate and easy for you to use.
+
+If you want a plot on nice paper, contact me at [[mailto:sales@leonrische.me][sales@leonrische.me]] or
+[[mailto:gifts@leonrische.me][gifts@leonrische.me]].
+** License
+:PROPERTIES:
+:ID:       26bea196-caaa-434a-ad48-910b10af7c48
+:END:
+#+BEGIN_EXPORT html
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">iso_snowflake</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.leonrische.me/" property="cc:attributionName" rel="cc:attributionURL">Leon Rische</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:contact@leonrische.me" rel="cc:morePermissions">mailto:contact@leonrische.me</a>.
+#+END_EXPORT
+
+When distributing this work, please link to the [[zk_friend:/home/leon/org/website/pages/isometric_snowflakes.org][Isometric Snowflakes]]
+page. For printed / plotted versions, the URL could be written on the back.
+
+This license allows commercial use, if you want to sell plots of these
+images, please don't charge more that necessary to cover material
+costs and a hourly wage for yourself you consider fair.
