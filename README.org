@@ -6,9 +6,7 @@ For more information, visit [[https://www.leonrische.me/pages/isometric_snowflak
 Images were generated using [[https://github.com/l3kn/Plotter][l3kn/Plotter]].
 
 ** Getting a Plot of This
-:PROPERTIES:
-:ID:       236c3e6d-01ad-4b70-a1fb-514665911dfd
-:END:
+
 If you have an [[https://axidraw.com/][AxiDraw]] or a similar plotter that can plot svg files,
 you should be able to download these images and plot them yourself.
 
@@ -33,12 +31,10 @@ points or write to [[mailto:support@leonrische.me][support@leonrische.me]] so we
 format that's easy for me to generate and easy for you to use.
 
 ** License
-:PROPERTIES:
-:ID:       26bea196-caaa-434a-ad48-910b10af7c48
-:END:
+
 #+BEGIN_EXPORT html
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">iso_snowflake</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.leonrische.me/" property="cc:attributionName" rel="cc:attributionURL">Leon Rische</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:contact@leonrische.me" rel="cc:morePermissions">mailto:contact@leonrische.me</a>.
 #+END_EXPORT
 
-When distributing this work, please link to the [[https://www.leonrische.me/pages/isometric_snowflakes.org][Isometric Snowflakes]]
+When distributing this work, please link to the [[https://www.leonrische.me/pages/isometric_snowflakes.html][Isometric Snowflakes]]
 page. For printed / plotted versions, the URL could be written on the back.
