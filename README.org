@@ -32,8 +32,6 @@ To do so, either parse the ~path~ elements of the svg and scale the
 points or write to [[mailto:support@leonrische.me][support@leonrische.me]] so we can come up with a
 format that's easy for me to generate and easy for you to use.
 
-If you want a plot on nice paper, contact me at [[mailto:sales@leonrische.me][sales@leonrische.me]] or
-[[mailto:gifts@leonrische.me][gifts@leonrische.me]].
 ** License
 :PROPERTIES:
 :ID:       26bea196-caaa-434a-ad48-910b10af7c48
